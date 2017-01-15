@@ -1,13 +1,6 @@
-==============================
-py-slideshow - image slideshow
-==============================
+# py-slideshow
 
-Random image slideshow in Python with OpenGL pan/zoom effects.
-
-.. image:: icon.png
-
-* Corey Goldberg, (c) 2013, (http://goldb.org)
-* License: GNU GPLv3
+Slideshows for Raspberry PI using Python.
 
 ----
 
